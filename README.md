@@ -10,6 +10,8 @@ This project is a **Digital Analog Clock** built using HTML, CSS, and JavaScript
 - **Smooth Animation**: The clock hands transition smoothly to mimic the continuous movement of a real analog clock.
 - **JavaScript for Time**: Uses JavaScript to update the clock every second.
 
+![Photo of Digital Analog Clock application](photo-sample.png)
+
 ## File Structure
 
 - **HTML**: Defines the structure of the clock and hands.
